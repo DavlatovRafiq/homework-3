@@ -1,0 +1,15 @@
+.text{
+    border: 10px solid green;
+    border-radius: 20px 0 10px 0;
+}
+.box_1{
+    display: inline-block;  /* inline, block, inline-block */
+    width: 100px;
+    height: 100px;
+    border: 1px dashed grey;
+}
+.box_2{
+    vertical-align: bottom;
+    border: 2px solid green;
+    border-radius: 10px;
+}

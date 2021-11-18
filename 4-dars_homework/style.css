@@ -1,0 +1,130 @@
+.navbar{
+    background-color: rgba(18, 63, 87, 08);
+}
+.nav, .nav-item{
+    display: inline-block;
+}
+.nav-item a, .navbar a{
+    color: white;
+    text-decoration: none;
+}
+.main_1{
+    vertical-align: middle;
+    display: inline-block;
+    width: 50%;
+}
+.main_1 h1, .main_2 h1, .main_2 p, .main_1 p{
+    width: 80%;
+    border-left: 20px solid white;
+}
+.main_2{
+    vertical-align: middle;
+    display: inline-block;
+    width: 49%;
+}
+.main_2 img{
+    width: 100%;
+}
+.text{
+    text-align: center;
+}
+.text hr, .for_hr{
+    width: 10%;
+    color: #000000;
+    background: black;
+    height: 2px;
+}
+
+.in-assosiy{
+    /* border: 1px solid rgb(226, 233, 236); */
+    border-radius: 20px 20px 20px 20px;
+    display: inline-block;
+    width: 32.5%;
+    height: 250px;
+    vertical-align: top;
+}
+.in-assosiy img{
+    width: 25%;
+    border-top: 20px solid white;
+    border-left: 20px solid white;
+}
+.in-assosiy h3{
+    font-size: 20px;
+    border-left: 20px solid white;
+}
+.in-assosiy p{
+    font-size: 15px;
+    width: 80%;
+    border-left: 20px solid white;
+}
+.middle_text{
+    color: tomato;
+    text-align: center;
+    border-left: 20px solid white;
+    border-right: 20px solid white;
+}
+
+.shablon_div{
+    background-color: #67c3f3;
+    border: 1px solid black;
+    border-radius: 20px, 20px, 20px, 20px;
+}
+.shablon_div hr{
+    width: 10%;
+    color: white;
+    background: white;
+    height: 2px;
+}
+.shablon_div h1{
+    text-align: center;
+    color: white;
+}
+.shablon_text{
+    display: inline-block;
+    width: 49%;
+    color: white;
+    vertical-align: middle;
+}
+.picture{
+    display: inline-block;
+    width: 49%;
+    color: white;
+    vertical-align: middle;
+}
+.picture img{
+    width: 60%;
+    border-radius: 100%;
+}
+.card{
+    background-color: rgb(248, 239, 239);
+    border-radius: 20px 20px 10px 10px;
+    display: inline-block;
+    width: 32.5%;
+}
+.card img{
+    border-radius: 20px 20px 0px 0px;
+    width: 100%;
+}
+.card a{
+    text-decoration: none;
+}
+.card h3, .card p{
+    width: 80%;
+}
+.footer{
+    display: inline-block;
+    width: 19%;
+}
+.footer_1{
+    display: inline-block;
+    width: 40%;
+}
+.footer_asosiy{
+    display: inline-block;
+    border-radius: 10px 10px 10px 10px;
+    background-color: rgb(63, 21, 250);
+}
+.footer h3{
+    font-size: 15px;
+    color: white;
+}
